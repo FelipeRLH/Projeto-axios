@@ -1,7 +1,6 @@
 # Sobre o projeto
 
-Este projeto simula um Blog onde fiz uso de uma API utilizando métodos Get e Post com Axios. Método Get para mostrar
-os dados na tela, e o Post para adicionar um novo dado no banco. 
+Este projeto é uma simulação de um blog, onde utilizei uma API e os métodos Get e Post com a biblioteca Axios. Utilizei o método Get para exibir os dados na tela e o método Post para adicionar novos dados ao banco de dados.
 
 ## Layout web
 ![image](https://user-images.githubusercontent.com/108680857/226704596-200c9f41-fb14-47b1-91d4-e1d99c8ec77c.png)
